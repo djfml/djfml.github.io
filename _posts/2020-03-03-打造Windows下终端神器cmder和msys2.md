@@ -9,9 +9,13 @@ catalog: true                       # 是否归档
 tags:                               #标签
     - 终端
     - terminal
-	- cmder
-	- msys2
+    - cmder
+    - msys2
+    
 ---
+
+# 打造Windows下终端神器
+>cmder+msys2
 
 ## Step 1 : 安装Cmder
 http://cmder.net/
