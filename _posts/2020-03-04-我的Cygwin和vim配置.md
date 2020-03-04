@@ -17,7 +17,7 @@ tags:                               #标签
 # 备份我的cygwin配置
 
 ## 终端配置 
-![](img/blog/cygwin_terminal.png)
+![](img/cygwin_terminal.png)
 
 ## .bashrc配置 
 ```
@@ -58,16 +58,14 @@ let $LANG = 'en_US.UTF-8'
 "language messages zh_CN.UTF-8
 " }}}
 
-
 " Format {{{
 set expandtab     " 使用空格代替tab.
 set tabstop=4     " 空格数量是4。
 set shiftwidth=4  " 自动缩进的宽度。
 syntax on
 " }}}
-
-
 ```  
+
 ## 右键打开cygwin
 
 打开注册表（regedit）并定位到
